@@ -1,4 +1,4 @@
-# Student Performance Review (ระบบติดตามผลการเรียน)
+# ระบบวิเคราะห์ผลสอบ (Student Performance Review)
 
 Frontend redirect wrapper to bypass in-app browser restrictions (LINE, Facebook, Instagram) and smoothly launch the Google Apps Script web application for Iqra Muslim School.
 
